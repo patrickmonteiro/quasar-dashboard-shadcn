@@ -4,6 +4,14 @@ Um elegante dashboard baseado no Quasar Framework com design inspirado no estilo
 
 ![Dashboard Preview](https://github.com/patrickmonteiro/quasar-dashboard-shadcn/blob/98caac78f3d7f0a706063f715d6192f56a07da56/public/print/2.png)
 
+![Dashboard Preview](https://github.com/patrickmonteiro/quasar-dashboard-shadcn/blob/98caac78f3d7f0a706063f715d6192f56a07da56/public/print/3.png)
+
+![Dashboard Preview](https://github.com/patrickmonteiro/quasar-dashboard-shadcn/blob/98caac78f3d7f0a706063f715d6192f56a07da56/public/print/4.png)
+
+![Dashboard Preview](https://github.com/patrickmonteiro/quasar-dashboard-shadcn/blob/98caac78f3d7f0a706063f715d6192f56a07da56/public/print/5.png)
+
+![Dashboard Preview](https://github.com/patrickmonteiro/quasar-dashboard-shadcn/blob/98caac78f3d7f0a706063f715d6192f56a07da56/public/print/6.png)
+
 ## 📚 Visão Geral
 
 Este projeto combina a potência e flexibilidade do Quasar Framework com a estética moderna e minimalista do Shadcn UI, resultando em um dashboard elegante e funcional. O design é caracterizado por:
