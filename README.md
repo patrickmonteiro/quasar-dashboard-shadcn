@@ -2,7 +2,7 @@
 
 Um elegante dashboard baseado no Quasar Framework com design inspirado no estilo Shadcn, desenvolvido com a assistência da IA Claude da Anthropic.
 
-![Dashboard Preview](https://placeholder-image-url.com/dashboard-preview.png)
+![Dashboard Preview](https://github.com/patrickmonteiro/quasar-dashboard-shadcn/blob/98caac78f3d7f0a706063f715d6192f56a07da56/public/print/2.png)
 
 ## 📚 Visão Geral
 
